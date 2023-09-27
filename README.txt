@@ -1,5 +1,7 @@
-Collaborative Project -> Authors: Anthony Paulino & Tanay Kale
+School Collaborative Project -> Authors: Anthony Paulino & Tanay Kale
 Please follow both Rutgers University's Principles of Academic Integrity and the Rutgers Department of Computer Science's Academic Integrity Policy.
+
+Programming Assignment: Making a better version of free and malloc by simulating virtual memory.
 
 NOTE: The memory array is allocated with size "MEMSIZE + sizeof(metaData)" to account for the topmost chunk header that is always present.
 If a specific limited size is desired, please set MEMSIZE to a value that is 4 less than desired.
